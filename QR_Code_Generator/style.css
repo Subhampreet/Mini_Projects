@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(40deg, #c50354, #250701);
+}
+
+h1{
+    color: white;
+    margin: 15px;
+    font-size: 45px;
+    font-family: 'KoHo', sans-serif;
+    letter-spacing: 0.1rem;
+
+}
+
+
+p{
+    color: white;
+    width: 50%;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 0.14rem;
+    font-size: 14px;
+    line-height: 140%;
+}
+
+input::placeholder{
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 0.9rem;
+    letter-spacing: 0.1rem;
+    /* font-style: italic; */
+}
+input{
+    width: 350px;
+    height: 40px;
+    background: none;
+    border: none;
+    border-bottom: 3px solid white;
+    margin: 15px;
+    outline: none;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 0.1rem;
+    font-size: 1.0rem;
+    color: white;
+    padding: 0 10px;
+}
+
+button{
+    width: 150px;
+    height: 40px;
+    font-size: 1.1rem;
+    margin: 15px;
+    cursor: pointer;
+    outline: none;
+    background: #060607;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 0.1rem;
+    color: white;
+    border: none;
+    border-radius: 20px;
+}
+
+button:hover{
+    color: black;
+    background: white;
+    transition: 0.3s;
+}

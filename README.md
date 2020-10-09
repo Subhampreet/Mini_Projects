@@ -89,10 +89,9 @@ You can contribute to any open source project hosted on Github.com and contribut
 
 ### 2. CHESS GAME ♟
 
-A simple chess game using <b>Vanilla JavaScript</b>.
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/Subhampreet/Mini_Projects/main/Media/chess.jpg" />
 
-<b>How To play?</b>
-Clone or download the repository and open index.html file in google chrome to play the game with a friend.
+Chess is a two-player strategy board game played on a checkered board with 64 squares arranged in an 8×8 square grid. Played by millions of people worldwide, chess is believed to be derived from the Indian game chaturanga sometime before the 7th century. A simple chess game implementation using <b>Vanilla JavaScript</b> .
 
 <b>Implemented Features :</b>
 * Show possible moves when a piece is selected

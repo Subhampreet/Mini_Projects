@@ -79,9 +79,27 @@ You can contribute to any open source project hosted on Github.com and contribut
 - [What is Hacktoberfest and How can a beginner contribute?](https://medium.com/@bawantharathnayaka/what-is-hacktoberfest-and-how-can-a-beginner-contribute-39cf2081804e)
 - [Hacktoberfest 2019: How you can get your free shirt — even if you’re new to coding](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/)
 
-# Mini_Projects ❄
+## Mini-Projects ❄
 
-## 1. QR CODE GENERATOR 🔅
+### 1. QR CODE GENERATOR 🔅
 
 ![QR](https://user-images.githubusercontent.com/61475220/94939655-10799e00-04f0-11eb-93fd-b00f30c9ece5.png)
+
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/Subhampreet/Mini_Projects/main/Media/chess.jpg" />
+
+### 2. CHESS GAME ♟
+
+A simple chess game using <b>Vanilla JavaScript</b>.
+
+<b>How To play?</b>
+Clone or download the repository and open index.html file in google chrome to play the game with a friend.
+
+<b>Implemented Features :</b>
+* Show possible moves when a piece is selected
+* Pieces can only make valid moves
+* Pieces can only take opponent pieces
+* Toggle turns after each move (white makes the first move)
+
+
+
 

@@ -3,23 +3,6 @@
 
 #### Edit 2: You contribution would be counted towards Hacktoberfest if it has been approved or merged or has a "hacktoberfest-accepted" label. It is not mandatory to have all 3 on a particular PR.
 
-
-
-
-  [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) ![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/bhaveshlohana/HacktoberFest2020-Contributions) ![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square) ![](https://img.shields.io/github/repo-size/bhaveshlohana/HacktoberFest2020-Contributions.svg?label=Repo%20size&style=flat-square)&nbsp;
-  [![GitHub forks](https://img.shields.io/github/forks/bhaveshlohana/HacktoberFest2020-Contributions.svg?style=social&label=Fork&maxAge=2592000)](https://gitHub.com/bhaveshlohana/HacktoberFest2020-Contributions) [![GitHub followers](https://img.shields.io/github/followers/bhaveshlohana.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bhaveshlohana?tab=followers)
-  
-# Overview
-The goal of this project is to help the beginners with their contributions in Open Source. We aim to achieve this collaboratively, so feel free to contribute in any way you want, just make sure to follow the contribution guidelines. You can contribute to it in either of the following ways:
-
-- Beginners:
-	- A "Hello World" program in your favorite language.
-- Intermediate:
-	- Add any one of your favorite algorithm in your favorite language, from simple to complex!
-- Expert:
-	- Add any graphical game in your favorite programming language!
-
-
 # HacktoberFest-2020
 
 Open source is changing the world - one pull request at a time. 

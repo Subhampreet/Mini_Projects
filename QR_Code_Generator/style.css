@@ -75,3 +75,7 @@ button:hover{
     background: white;
     transition: 0.3s;
 }
+#img:hover {
+    transform: scale(1.9); 
+    transition: transform 1s ease;
+}

@@ -82,7 +82,6 @@ Chess is a two-player strategy board game played on a checkered board with 64 sq
 * Pieces can only take opponent pieces
 * Toggle turns after each move (white being the first)
 <br>
-<br>
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/Subhampreet/Mini_Projects/main/Media/square_pattern.jpg" />
 

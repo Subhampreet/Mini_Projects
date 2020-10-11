@@ -1,9 +1,9 @@
 ![image](https://user-images.githubusercontent.com/53433312/95441866-49929200-0978-11eb-9fcb-adf3c935adba.png)
+# HacktoberFest-2020 ❄
+
 #### Edit 1: Don't add something if its already there in the same programming language. Try to add quality content. I won't merge PRs if you are spamming with PRs.
 
 #### Edit 2: You contribution would be counted towards Hacktoberfest if it has been approved or merged or has a "hacktoberfest-accepted" label. It is not mandatory to have all 3 on a particular PR.
-
-# HacktoberFest-2020
 
 Open source is changing the world - one pull request at a time. 
 
@@ -81,7 +81,17 @@ Chess is a two-player strategy board game played on a checkered board with 64 sq
 * Pieces can only make valid moves
 * Pieces can only take opponent pieces
 * Toggle turns after each move (white being the first)
+<br>
+<br>
 
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/Subhampreet/Mini_Projects/main/Media/square_pattern.jpg" />
 
+### 3. OPENGL PYTHON PROGRAM 
+
+OpenGL is a cross-language, cross-platform application programming interface for rendering 2D and 3D vector graphics. The API is typically used to interact with a graphics processing unit, to achieve hardware-accelerated rendering.
+
+<b>The following Python program draws squares and fills it with colours and then rotates it so as to form a pattern in computer graphics.</b>
+
+The OpenGL specification describes an abstract API for drawing 2D and 3D graphics. Although it is possible for the API to be implemented entirely in software, it is designed to be implemented mostly or entirely in hardware.
 
 

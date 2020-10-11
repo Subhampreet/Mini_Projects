@@ -92,6 +92,5 @@ OpenGL is a cross-language, cross-platform application programming interface for
 
 <b>The following Python program draws squares and fills it with colours and then rotates it so as to form a pattern in computer graphics.</b>
 
-The OpenGL specification describes an abstract API for drawing 2D and 3D graphics. Although it is possible for the API to be implemented entirely in software, it is designed to be implemented mostly or entirely in hardware.
-
+The OpenGL specification describes an abstract API for drawing 2D and 3D graphics. 
 

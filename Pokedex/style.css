@@ -72,6 +72,7 @@ button:hover{
 }
 #img-front,#img-back,#img-shiny-front,#img-shiny-back{
     transform: scale(2);
+    padding: 40px;
 }
 #img-front:hover,#img-back:hover,#img-shiny-front:hover,#img-shiny-back:hover{
     transform: scale(2.9); 

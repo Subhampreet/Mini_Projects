@@ -78,3 +78,12 @@ button:hover{
     transform: scale(2.9); 
     transition: transform 1s ease;
 }
+.type{
+    color: black;
+    background-color: white;
+    border: 3px solid white;
+    border-radius: 10px;
+    text-transform: capitalize;
+    display: inline;
+    padding: 2px;
+}
